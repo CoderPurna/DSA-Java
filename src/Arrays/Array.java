@@ -1,6 +1,6 @@
 package Arrays;
 
-public class Array1 {
+public class Array {
     static void main(String[] args) {
         //declaration
         int arr[];
