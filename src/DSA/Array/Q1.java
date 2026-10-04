@@ -1,4 +1,4 @@
-package DSA;
+package DSA.Array;
 
 // find the average of array item
 public class Q1 {

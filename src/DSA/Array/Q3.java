@@ -1,4 +1,4 @@
-package DSA;
+package DSA.Array;
 
 public class Q3 {
     //Linear search

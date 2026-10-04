@@ -1,4 +1,4 @@
-package DSA;
+package DSA.Array;
 
 public class Q6 {
     //unsorted element in array

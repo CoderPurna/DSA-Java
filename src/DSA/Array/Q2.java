@@ -1,4 +1,4 @@
-package DSA;
+package DSA.Array;
 
 public class Q2 {
     //Multiply each element with 10 in array

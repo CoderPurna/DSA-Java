@@ -1,4 +1,4 @@
-package DSA;
+package DSA.Array;
 
 public class Q5 {
     static int[] getPosNeg(int[] arr){
